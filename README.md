@@ -1,6 +1,6 @@
 # ScreenCraft releases
 
-Public download artifacts for [ScreenCraft](https://screencraft.app) — the macOS source repo is private.
+Public download artifacts for [ScreenCraft](https://screencraft.in) — the macOS source repo is private.
 
 Each release attaches:
 
@@ -14,7 +14,7 @@ Latest release: <https://github.com/ShreeBhagwat/screencraft-releases/releases/l
 Or programmatically (used by the app's self-update check):
 
 ```sh
-curl https://screencraft.app/api/latest
+curl https://screencraft.in/api/latest
 ```
 
 Response:
